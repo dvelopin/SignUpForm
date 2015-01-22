@@ -8,7 +8,6 @@
     <string name="submit_button_text">Submit</string>
     <string name="password">Password</string>
     <string name="password_confirm">Confirm Password:</string>
-    <string name="random">Random</string>
 
 
 </resources>

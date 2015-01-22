@@ -74,7 +74,6 @@
             android:hint="Please confirm your password" />
 
 
-
     </LinearLayout>
 
     <Button
